@@ -15,7 +15,7 @@ class LoginActivity : AppCompatActivity() {
 
 
         val btnlogin : TextView = findViewById(R.id.BTNLogin)
-        val btnsignin : TextView = findViewById(R.id.BTNSignin)
+        val btnsignin : TextView = findViewById(R.id.BTNSignup)
 
 
         btnlogin.setOnClickListener {
